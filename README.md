@@ -1,5 +1,5 @@
 - My name is Matiwos Birbo. 
-I am currently a junior student at the University of Memphis majoring in Computer Science. 
+I am currently a senior student at the University of Memphis majoring in Computer Science. 
 I am an aspiring software engineer who has graduated from a coding Bootcamp and is now applying his technological skills
 towards research, personal projects, and teaching underrepresented, disadvantaged minority children and teenagers about robotics, 
 video game development, web developments, and other computer science-based concepts. I am currently seeking an internship where I 
